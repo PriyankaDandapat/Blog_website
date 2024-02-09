@@ -1,5 +1,7 @@
 ﻿# Blog_management_Website
 
+ Deployment link: https://blog-website-10us.onrender.com
+
 The blog website provides a user-friendly interface where individuals can create , write and publish their blog posts with a wider audience. It leverages Node.js for server-side logic and MongoDB as the database to store user information, blog posts, and related data. The frontend is built using HTML and CSS for layout and styling.
 
 Features:
